@@ -12,7 +12,6 @@
 #  to check your setup
 import sys
 
-########### 
 print('###################################################################')
 print('Python version,')
 print( sys.version)
