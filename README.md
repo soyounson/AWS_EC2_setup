@@ -76,4 +76,9 @@ Run it in your AWS EC2 instance.
 ```
 [ec2-user@xxx] python aws_ec2.py
 ```
+Output
+<div>
+<img width="476" alt="Screen Shot 2020-11-20 at 21 20 10" src="https://user-images.githubusercontent.com/40614421/99846231-40e7cb00-2b76-11eb-9842-b9a1fa9fea04.png">
+<div>
+
 Enjoy :)
