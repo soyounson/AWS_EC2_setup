@@ -1,4 +1,4 @@
-:black_heart: Simple setting up python and Github on Amazon EC2 Linux instances
+:black_heart: Simple setup of python and Github on Amazon EC2 Linux instances
 
 ### Connect AWS EC2 instance using SSH
 [AWS user guide for linux instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html) explains all details.
